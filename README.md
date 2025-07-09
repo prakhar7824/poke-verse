@@ -23,10 +23,10 @@
 - Detailed Pokémon Info: View stats, abilities, moves, and more.
   
 5)Files and thier works -
-  Index.tsx - main website Homepage displays all pokemons cards along with little detailed when hovered with cursor pointer.
-  Teams.tsx - teams section where user can create teams, custom names, self select pokemons and team battles.
-  PokemonDetail.tsx - shows basic details like height, weight, type, ability and advanced details like stats, abilities, moves, info are in seperate sections.
-  BattleArena.tsx - battle simulation page for selected pokemons.
+-Index.tsx - main website Homepage displays all pokemons cards along with little detailed when hovered with cursor pointer.
+-Teams.tsx - teams section where user can create teams, custom names, self select pokemons and team battles.
+-PokemonDetail.tsx - shows basic details like height, weight, type, ability and advanced details like stats, abilities, moves, info are in seperate sections.
+-BattleArena.tsx - battle simulation page for selected pokemons.
   
 6)How to add new features -
   - Add new pages to 'src/pages/' and routes in 'App.tsx'.
